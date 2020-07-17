@@ -1,0 +1,5 @@
+name: WelcomeMessage
+version: 1.0
+author: yeonho1
+description: WelcomeMessage plugin by yeonho1
+main: io.github.yeonho1.WelcomeMessagePlugin
